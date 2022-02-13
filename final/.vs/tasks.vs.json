@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-Apartman.Designer",
+      "appliesTo": "201613709028/Apartman.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}

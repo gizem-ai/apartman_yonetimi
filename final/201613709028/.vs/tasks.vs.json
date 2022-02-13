@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-daire1.Designer",
+      "appliesTo": "daire1.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}
